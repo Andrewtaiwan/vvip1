@@ -6,7 +6,7 @@ body {
 
 body {
   font-family: 'Cookie', cursive;
-  font-size: 300%;
+  
   
   color: 	#990005;
 
@@ -17,3 +17,16 @@ div.inner{
   margin-right:100px;
   
 }
+
+p {
+  font-size: 300%;
+}
+s {
+  font-size: 400%;
+}
+m {
+  font-size: 500%;
+}
+l{
+  font-size: 600%;
+  }
