@@ -3,4 +3,7 @@ body {
   font-size: 300%;
   background: #99ffff;
   color: 	#000000;
+
+  cursor:url(christmas.gif),auto;
+
 }
