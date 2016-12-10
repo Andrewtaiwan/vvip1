@@ -16,8 +16,8 @@ footer {
   background: #9cfcbc;
 }
 div .text {
-  margin-left: 300px;
+  margin-left: 100px;
   background: #66b8ff;
-  opacity: 0.3;
-  filter: alpha(opacity=30); /* For IE8 and earlier */
+  opacity: 0.6;
+  filter: alpha(opacity=60); /* For IE8 and earlier */
 }
