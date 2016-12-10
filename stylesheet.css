@@ -1,5 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Advent+Pro:100);
-div .inner { 
+body { 
   background:  url(background.gif) no-repeat center center fixed; 
   background-size: cover;
 }
