@@ -1,5 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Advent+Pro:100);
-html { 
+div .inner { 
   background:  url(background.gif) no-repeat center center fixed; 
   background-size: cover;
 }
@@ -7,9 +7,17 @@ html {
 body {
   font-family: 'Cookie', cursive;
   font-size: 300%;
-
+  
   color: 	#000000;
 
-  
+}
 
+footer {
+  background: #9cfcbc;
+}
+div .text {
+  margin-left: 300px;
+  background: #66b8ff;
+  opacity: 0.3;
+  filter: alpha(opacity=30); /* For IE8 and earlier */
 }
