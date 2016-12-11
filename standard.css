@@ -36,6 +36,6 @@ mi {
 }
 
 
-mid {
-  margin:auto;
+.center {
+  text-align:center;
 }
