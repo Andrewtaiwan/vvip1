@@ -39,3 +39,7 @@ mi {
 .center {
   text-align:center;
 }
+
+mid {
+  margin: auto;
+}
