@@ -34,3 +34,16 @@ mi {
   font-size: 150%;
   background: #2dff00;
 }
+
+mid img {
+    display: block;
+    margin: 0 auto;
+}
+
+mid mi, p, s, m, l {
+  text-align: center;
+}
+
+mid {
+  margin:auto;
+}
