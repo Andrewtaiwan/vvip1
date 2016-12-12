@@ -31,12 +31,14 @@ m {
 l{
   font-size: 600%;
   }
-footer mi {
+mi {
   font-size: 150%;
+}
+footer mi {
+  
   background: #2dff00;
   margin-left: 100px;
 }
-
 
 .center {
   text-align: auto;
