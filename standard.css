@@ -16,7 +16,7 @@ div.inner{
   margin-left:100px;
   margin-right:100px;
   background: url('mail.png') no-repeat center center fixed;
-  background-size: cover;
+  margin-top:25px;
 }
 
 p {
