@@ -31,9 +31,10 @@ m {
 l{
   font-size: 600%;
   }
-mi {
+footer mi {
   font-size: 150%;
   background: #2dff00;
+  margin-left: 100px;
 }
 
 
