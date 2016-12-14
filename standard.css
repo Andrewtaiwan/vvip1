@@ -14,9 +14,9 @@ body {
 
 div.inner{
   margin-left:100px;
-  margin-right:100px;
+
   background: url('mail.png') no-repeat center center fixed;
-  margin-top:25px;
+
 }
 
 p {
