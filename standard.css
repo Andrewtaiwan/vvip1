@@ -30,6 +30,8 @@ img.resize{
 div.inner{
   margin-left:160px;
   color: #000000;
+  width:100vw;
+  margin:auto;
 }
 
 div.backinner{
