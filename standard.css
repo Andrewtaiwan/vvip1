@@ -22,6 +22,11 @@ body {
 
 }
 
+img.resize{
+    width:20%px; /* you can use % */
+    height: auto;
+}
+
 div.inner{
   margin-left:160px;
   color: #000000;
