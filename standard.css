@@ -46,6 +46,11 @@ footer mi {
   margin-left: 100px;
 }
 
+footer mi .bigger{
+  font-size: 160%;
+  background: #2dff00;
+  margin-left: 100px;
+}
 .center {
   text-align: auto;
 }
