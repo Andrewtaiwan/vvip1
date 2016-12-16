@@ -22,7 +22,8 @@ div.inner{
 div.backinner{
   background-image: url(mail.jpg);
   background-repeat:no-repeat;
-  background-position: top right;
+  background-position: top center;
+  width:100vw;
 }
 
 p {
@@ -47,7 +48,7 @@ footer mi {
 }
 
 footer mi .bigger{
-  font-size: 160%;
+  font-size: 180%;
   background: #2dff00;
   margin-left: 100px;
 }
