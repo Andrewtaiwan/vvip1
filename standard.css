@@ -4,6 +4,16 @@ body {
   background-size: cover;
 }
 
+img .right {
+    float: right;
+    margin: 0 0 10px 10px;
+}
+
+img .left {
+    float: left;
+    margin: 0 0 10px 10px;
+}
+
 body {
   font-family: 'Cookie', cursive;
   
