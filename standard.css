@@ -23,7 +23,7 @@ body {
 }
 
 img.resize{
-    width:620px; /* you can use % */
+    width:160px; /* you can use % */
     height: auto;
 }
 
