@@ -20,7 +20,9 @@ div.inner{
 }
 
 div.backinner{
-  background: url('mail.png') no-repeat center center fixed;
+  background-image: url(mail.jpg);
+  background-repeat:no-repeat;
+  background-position: top right;
 }
 
 p {
