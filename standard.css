@@ -15,7 +15,7 @@ img .left {
 }
 
 body {
-  font-family: 'Cookie', cursive;
+  font-family: 'Courgette', cursive;
   
   
   color: 	#f9ff04;
@@ -42,16 +42,16 @@ div.backinner{
 }
 
 p {
-  font-size: 300%;
+  font-size: 24px;
 }
 s {
-  font-size: 400%;
+  font-size: 38px;
 }
 m {
-  font-size: 500%;
+  font-size: 52px;
 }
 l{
-  font-size: 600%;
+  font-size: 66px;
   }
 mi {
   font-size: 150%;
