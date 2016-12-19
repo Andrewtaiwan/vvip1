@@ -30,9 +30,6 @@ img.resize{
 div.inner{
   margin-left:160px;
   color: #000000;
-  width: calc(100vw- 36px);
-  width: -webkit- calc(100vw- 36px);
-  width: -moz-calc(100vw- 36px);
   margin:auto;
   text-align:center;
 }
