@@ -1,4 +1,11 @@
+div .inner {
+font-family: 'Cormorant Upright', serif;
+}
+div.title {
+font-family: 'Megrim', cursive;
+}
 
+//web style
 body { 
   background:  url(background.gif) no-repeat center center fixed; 
   background-size: cover;
@@ -15,7 +22,7 @@ img .left {
 }
 
 body {
-  font-family: 'Courgette', cursive;
+ 
   
   height:100%;
   color: 	#f9ff04;
@@ -85,5 +92,5 @@ ti{
   text-align:center;
   color: #1100ff;
   font-size:80px;
+  font-family: 'Megrim', cursive;
 }
-
