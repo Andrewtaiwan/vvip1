@@ -9,6 +9,8 @@ div #music {
 st {
   font-family: 'Codystar', cursive;
   font-size:30%;
+  background: #00fb25;
+  color:#ffffff;
 }
 sig {
   font-family: 'Cookie', cursive;
