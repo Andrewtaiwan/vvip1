@@ -90,17 +90,6 @@ l{
 mi {
   font-size: 10px;
 }
-footer mi {
-  
-  background: #2dff00;
-  margin-left: 100px;
-}
-
-footer mi .bigger{
-  font-size: 180%;
-  background: #2dff00;
-  margin-left: 100px;
-}
 .center {
   text-align: auto;
 }
