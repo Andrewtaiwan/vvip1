@@ -8,7 +8,7 @@ div #music {
 
 st {
   font-family: 'Codystar', cursive;
-  font-size:30%;
+  font-size:70px;
   background: #00fb25;
   color:#ffffff;
 }
@@ -48,7 +48,7 @@ body {
 }
 
 img.resize{
-    width:160px; /* you can use % */
+    width:50vw; /* you can use % */
     height: auto;
 }
 
