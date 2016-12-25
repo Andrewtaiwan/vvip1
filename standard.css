@@ -1,6 +1,6 @@
 div #music {
   position: fixed;
-  clip: rect(0px,61px,31px,0px);
+  clip: rect(0px,70px,31px,0px);
   right: 1px;
   width:31px;
   background: #00ffff;
@@ -107,5 +107,5 @@ ti{
 lo {
   background: #2dff00;
   margin-left: 100px;
-  font-family: 'Medrim', cursive;
+  font-family: 'Megrim', cursive;
 }
