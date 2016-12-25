@@ -27,7 +27,7 @@ div.title {
 
 //web style
 body { 
-  background:  url(background.gif) no-repeat center center fixed; 
+  background:  url('background.gif') no-repeat center center fixed; 
   background-size: cover;
   font-family: 'Cormorant Upright', serif;
 }
