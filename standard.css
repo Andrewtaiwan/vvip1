@@ -52,10 +52,10 @@ img.resize{
 }
 
 div.inner{
-  margin-left:160px;
+  margin-left:210px;
+  margin-right:50px;
   color: #000000;
-  margin:auto;
-  text-align:center;
+  
 }
 
 div.backinner{
