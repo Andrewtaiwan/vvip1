@@ -2,6 +2,7 @@ div #music {
   position: fixed;
   clip: rect(0px,70px,31px,0px);
   right: 1px;
+  top:1px;
   width:31px;
   background: #00ffff;
 }
